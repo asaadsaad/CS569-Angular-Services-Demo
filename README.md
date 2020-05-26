@@ -1,1 +1,1 @@
-# CS569-Angular-Services-Demo
+Angular Dependency Injection Framework Demo
