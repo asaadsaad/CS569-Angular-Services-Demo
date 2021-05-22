@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { threadId } from 'worker_threads';
 import LogService from './log.service';
 
 @Injectable({
